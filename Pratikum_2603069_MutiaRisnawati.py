@@ -19,7 +19,7 @@ buah.sort()
 print(buah)
 
 # Soal 4
-buah = ["apel", "jeruk", "ceri", "durian", "apel", "mangga"]
+buah = ["apel", "jeruk", "ceri", "durian", "apel", "mangga","kiwi"]
 nama_buah = input("Masukkan nama buah yang ingin dihapus: ")
 if nama_buah in buah:
     buah.remove(nama_buah)
